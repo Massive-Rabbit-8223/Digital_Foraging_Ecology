@@ -1,0 +1,29 @@
+             ┌─────────────────┐
+             │      WORLD      │
+             │                 │
+             │ bodies          │
+             │ food            │
+             │ spatial map     │
+             │ physics         │
+             └────────┬────────┘
+                      │ observations
+        ┌─────────────┼─────────────┐
+        ▼             ▼             ▼
+     Agent A       Agent B       Agent C
+      brain         brain         brain
+      genome        genome        genome
+        │             │             │
+        └─────────────┼─────────────┘
+                      │ intents
+                      ▼
+             ┌─────────────────┐
+             │    RESOLVER     │
+             │                 │
+             │ movement        │
+             │ eating          │
+             │ conflict        │
+             │ reproduction    │
+             │ death           │
+             └────────┬────────┘
+                      ▼
+                  WORLD t+1

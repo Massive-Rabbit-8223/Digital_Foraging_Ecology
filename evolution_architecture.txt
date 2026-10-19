@@ -1,0 +1,39 @@
+                       EVOLUTION
+                           │
+                    variation/selection
+                           │
+                           ▼
+                    ┌────────────┐
+                    │   GENOME   │
+                    │            │
+                    │ topology   │
+                    │ parameters │
+                    │ plasticity │
+                    │ learning   │
+                    └─────┬──────┘
+                          │
+                     DEVELOPMENT
+                          │
+                          ▼
+                   ┌──────────────┐
+                   │ BRAIN @ BIRTH│
+                   └──────┬───────┘
+                          │
+                    EXPERIENCE
+                          │
+                          ▼
+                 synaptic plasticity
+                          │
+                          ▼
+                   ┌──────────────┐
+                   │ ADULT BRAIN  │
+                   └──────┬───────┘
+                          │
+                       behavior
+                          │
+                          ▼
+                     ENVIRONMENT
+                          │
+                  survival/reproduction
+                          │
+                          └──────→ EVOLUTION
